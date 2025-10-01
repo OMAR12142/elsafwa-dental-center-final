@@ -2,7 +2,7 @@ import React from "react";
 import { FaTooth, FaSmile, FaXRay, FaTeethOpen, FaUserMd, FaHospital } from "react-icons/fa";
 import Services_section_one from "../services_sections/Services_section_one";
 import FAQSection from "../componants/FAQSection";
-import Home_third from "../Home_sections/home_third";
+import Home_third from './../Home_sections/Home_third';
 
 
 
