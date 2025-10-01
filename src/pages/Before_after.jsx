@@ -311,6 +311,8 @@ export default function Before_after() {
                 : "bg-white text-gray-700 border-gray-200 hover:bg-gray-100"
             }`}
           >
+                  <Icon className="text-2xl mb-2" />
+
             <span className="text-sm text-center font-medium">{name}</span>
           </button>
         ))}
