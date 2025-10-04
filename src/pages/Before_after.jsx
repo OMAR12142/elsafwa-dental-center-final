@@ -3,104 +3,104 @@ import { FaTooth, FaSeedling, FaSmileBeam, FaTeethOpen, FaProcedures, FaChild } 
 
 
 // التركيبات
-import case1 from "../imgs/تركيبات/1.png";
-import case2 from "../imgs/تركيبات/2.png";
-import case3 from "../imgs/تركيبات/3.png";
-import case4 from "../imgs/تركيبات/4.png";
-import case5 from "../imgs/تركيبات/5.png";
-import case6 from "../imgs/تركيبات/6.png";
-import case7 from "../imgs/تركيبات/7.png";
-import case8 from "../imgs/تركيبات/8.png";
-import case9 from "../imgs/تركيبات/9.png";
-import case10 from "../imgs/تركيبات/10.png";
-import case11 from "../imgs/تركيبات/11.png";
-import case12 from "../imgs/تركيبات/12.png";
-import case13 from "../imgs/تركيبات/13.png";
-import case14 from "../imgs/تركيبات/14.png";
-import case15 from "../imgs/تركيبات/15.png";
-import case16 from "../imgs/تركيبات/16.png";
-import case17 from "../imgs/تركيبات/17.png";
-import case18 from "../imgs/تركيبات/18.png";
-import case19 from "../imgs/تركيبات/19.png";
-import case20 from "../imgs/تركيبات/20.png";
+import case1 from "../imgs/تركيبات/1.webp";
+import case2 from "../imgs/تركيبات/2.webp";
+import case3 from "../imgs/تركيبات/3.webp";
+import case4 from "../imgs/تركيبات/4.webp";
+import case5 from "../imgs/تركيبات/5.webp";
+import case6 from "../imgs/تركيبات/6.webp";
+import case7 from "../imgs/تركيبات/7.webp";
+import case8 from "../imgs/تركيبات/8.webp";
+import case9 from "../imgs/تركيبات/9.webp";
+import case10 from "../imgs/تركيبات/10.webp";
+import case11 from "../imgs/تركيبات/11.webp";
+import case12 from "../imgs/تركيبات/12.webp";
+import case13 from "../imgs/تركيبات/13.webp";
+import case14 from "../imgs/تركيبات/14.webp";
+import case15 from "../imgs/تركيبات/15.webp";
+import case16 from "../imgs/تركيبات/16.webp";
+import case17 from "../imgs/تركيبات/17.webp";
+import case18 from "../imgs/تركيبات/18.webp";
+import case19 from "../imgs/تركيبات/19.webp";
+import case20 from "../imgs/تركيبات/20.webp";
 
 // الحشوات التجميليه 
 
-import case50 from "../imgs/الحشوات التجميلية/50.png";
-import case51 from "../imgs/الحشوات التجميلية/51.png";
-import case52 from "../imgs/الحشوات التجميلية/52.png";
-import case53 from "../imgs/الحشوات التجميلية/53.png";
-import case54 from "../imgs/الحشوات التجميلية/54.png";
-import case55 from "../imgs/الحشوات التجميلية/55.png";
-import case56 from "../imgs/الحشوات التجميلية/56.png";
-import case57 from "../imgs/الحشوات التجميلية/57.png";
-import case58 from "../imgs/الحشوات التجميلية/58.png";
-import case59 from "../imgs/الحشوات التجميلية/59.png";
-import case60 from "../imgs/الحشوات التجميلية/60.png";
-import case61 from "../imgs/الحشوات التجميلية/61.png";
+import case50 from "../imgs/الحشوات التجميلية/50.webp";
+import case51 from "../imgs/الحشوات التجميلية/51.webp";
+import case52 from "../imgs/الحشوات التجميلية/52.webp";
+import case53 from "../imgs/الحشوات التجميلية/53.webp";
+import case54 from "../imgs/الحشوات التجميلية/54.webp";
+import case55 from "../imgs/الحشوات التجميلية/55.webp";
+import case56 from "../imgs/الحشوات التجميلية/56.webp";
+import case57 from "../imgs/الحشوات التجميلية/57.webp";
+import case58 from "../imgs/الحشوات التجميلية/58.webp";
+import case59 from "../imgs/الحشوات التجميلية/59.webp";
+import case60 from "../imgs/الحشوات التجميلية/60.webp";
+import case61 from "../imgs/الحشوات التجميلية/61.webp";
 
 
 
 // التقويم
 
-import case100 from "../imgs/التقويم/100.jpg";
-import case101 from "../imgs/التقويم/101.jpg";
-import case102 from "../imgs/التقويم/102.jpg";
-import case103 from "../imgs/التقويم/103.jpg";
-import case104 from "../imgs/التقويم/104.jpg";
-import case105 from "../imgs/التقويم/105.jpg";
-import case106 from "../imgs/التقويم/106.jpg";
-import case107 from "../imgs/التقويم/107.jpg";
-import case108 from "../imgs/التقويم/108.png";
+import case100 from "../imgs/التقويم/100.webp";
+import case101 from "../imgs/التقويم/101.webp";
+import case102 from "../imgs/التقويم/102.webp";
+import case103 from "../imgs/التقويم/103.webp";
+import case104 from "../imgs/التقويم/104.webp";
+import case105 from "../imgs/التقويم/105.webp";
+import case106 from "../imgs/التقويم/106.webp";
+import case107 from "../imgs/التقويم/107.webp";
+import case108 from "../imgs/التقويم/108.webp";
 
 
 // جراجه الفم والزراعه 
 
-import casea from "../imgs/جراحة الفم والزراعة/a.png";
-import caseb from "../imgs/جراحة الفم والزراعة/b.png";
-import casec from "../imgs/جراحة الفم والزراعة/c.png";
-import cased from "../imgs/جراحة الفم والزراعة/d.png";
-import casee from "../imgs/جراحة الفم والزراعة/e.png";
-import casel from "../imgs/جراحة الفم والزراعة/l.jpg";
-import caseg from "../imgs/جراحة الفم والزراعة/g.jpg";
-import caseh from "../imgs/جراحة الفم والزراعة/h.jpg";
-import casem from "../imgs/جراحة الفم والزراعة/m.jpg";
-import casen from "../imgs/جراحة الفم والزراعة/n.jpg";
-import caseo from "../imgs/جراحة الفم والزراعة/o.jpg";
-import caseq from "../imgs/جراحة الفم والزراعة/q.jpg";
-import caser from "../imgs/جراحة الفم والزراعة/r.jpg";
-import casev from "../imgs/جراحة الفم والزراعة/v.jpg";
-import casew from "../imgs/جراحة الفم والزراعة/w.jpg";
-import casex from "../imgs/جراحة الفم والزراعة/x.jpg";
-import casey from "../imgs/جراحة الفم والزراعة/y.jpg";
-import casez from "../imgs/جراحة الفم والزراعة/z.jpg";
-import caseAa from "../imgs/جراحة الفم والزراعة/a (2).png";
-import caseBA from "../imgs/جراحة الفم والزراعة/b (2).png";
+import casea from "../imgs/جراحة الفم والزراعة/a.webp";
+import caseb from "../imgs/جراحة الفم والزراعة/b.webp";
+import casec from "../imgs/جراحة الفم والزراعة/c.webp";
+import cased from "../imgs/جراحة الفم والزراعة/d.webp";
+import casee from "../imgs/جراحة الفم والزراعة/e.webp";
+import casel from "../imgs/جراحة الفم والزراعة/l.webp";
+import caseg from "../imgs/جراحة الفم والزراعة/g.webp";
+import caseh from "../imgs/جراحة الفم والزراعة/h.webp";
+import casem from "../imgs/جراحة الفم والزراعة/m.webp";
+import casen from "../imgs/جراحة الفم والزراعة/n.webp";
+import caseo from "../imgs/جراحة الفم والزراعة/o.webp";
+import caseq from "../imgs/جراحة الفم والزراعة/q.webp";
+import caser from "../imgs/جراحة الفم والزراعة/r.webp";
+import casev from "../imgs/جراحة الفم والزراعة/v.webp";
+import casew from "../imgs/جراحة الفم والزراعة/w.webp";
+import casex from "../imgs/جراحة الفم والزراعة/x.webp";
+import casey from "../imgs/جراحة الفم والزراعة/y.webp";
+import casez from "../imgs/جراحة الفم والزراعة/z.webp";
+import caseAa from "../imgs/جراحة الفم والزراعة/a (2).webp";
+import caseBA from "../imgs/جراحة الفم والزراعة/b (2).webp";
 
 
 // علاج العصب 
 
-import case30 from "../imgs/حشو العصب/30.jpg";
-import case31 from "../imgs/حشو العصب/31.jpg";
-import case32 from "../imgs/حشو العصب/32.jpg";
-import case33 from "../imgs/حشو العصب/33.jpg";
-import case34 from "../imgs/حشو العصب/34.jpg";
-import case35 from "../imgs/حشو العصب/35.jpg";
-import case36 from "../imgs/حشو العصب/36.jpg";
-import case37 from "../imgs/حشو العصب/37.jpg";
-import case38 from "../imgs/حشو العصب/38.jpg";
-import case39 from "../imgs/حشو العصب/39.jpg";
-import case40 from "../imgs/حشو العصب/40.jpg";
-import case41 from "../imgs/حشو العصب/000.jpg";
-import case42 from "../imgs/حشو العصب/42.jpg";
-import case44 from "../imgs/حشو العصب/44.jpg";
-import case45 from "../imgs/حشو العصب/45.jpg";
-import case46 from "../imgs/حشو العصب/46.jpg";
-import case47 from "../imgs/حشو العصب/47.jpg";
-import case48 from "../imgs/حشو العصب/48.jpg";
-import case49 from "../imgs/حشو العصب/49.jpg";
-import case499 from "../imgs/حشو العصب/499.jpg";
-import case123 from "../imgs/حشو العصب/123.jpg";
+import case30 from "../imgs/حشو العصب/30.webp";
+import case31 from "../imgs/حشو العصب/31.webp";
+import case32 from "../imgs/حشو العصب/32.webp";
+import case33 from "../imgs/حشو العصب/33.webp";
+import case34 from "../imgs/حشو العصب/34.webp";
+import case35 from "../imgs/حشو العصب/35.webp";
+import case36 from "../imgs/حشو العصب/36.webp";
+import case37 from "../imgs/حشو العصب/37.webp";
+import case38 from "../imgs/حشو العصب/38.webp";
+import case39 from "../imgs/حشو العصب/39.webp";
+import case40 from "../imgs/حشو العصب/40.webp";
+import case41 from "../imgs/حشو العصب/000.webp";
+import case42 from "../imgs/حشو العصب/42.webp";
+import case44 from "../imgs/حشو العصب/44.webp";
+import case45 from "../imgs/حشو العصب/45.webp";
+import case46 from "../imgs/حشو العصب/46.webp";
+import case47 from "../imgs/حشو العصب/47.webp";
+import case48 from "../imgs/حشو العصب/48.webp";
+import case49 from "../imgs/حشو العصب/49.webp";
+import case499 from "../imgs/حشو العصب/499.webp";
+import case123 from "../imgs/حشو العصب/123.webp";
 
 
 
@@ -109,17 +109,15 @@ import case123 from "../imgs/حشو العصب/123.jpg";
 
 // طب اسنان الاطفال
 
-import case600 from "../imgs/طب اسنان الاطفال/60.jpg";
-import case610 from "../imgs/طب اسنان الاطفال/61.jpeg";
-import case62 from "../imgs/طب اسنان الاطفال/62.jpg";
-import case65 from "../imgs/طب اسنان الاطفال/63.jpg";
-import case66 from "../imgs/طب اسنان الاطفال/64.jpeg";
-import case67 from "../imgs/طب اسنان الاطفال/67.jpeg";
-import case68 from "../imgs/طب اسنان الاطفال/68.jpeg";
-import case69 from "../imgs/طب اسنان الاطفال/69.jpg";
-import case70 from "../imgs/طب اسنان الاطفال/70.jpg";
-import case71 from "../imgs/طب اسنان الاطفال/71.jpg";
-
+import case6000 from "../imgs/طب اسنان الاطفال/60.webp";
+import case6100 from "../imgs/طب اسنان الاطفال/61.webp";
+import case65 from "../imgs/طب اسنان الاطفال/63.webp";
+import case66 from "../imgs/طب اسنان الاطفال/64.webp";
+import case67 from "../imgs/طب اسنان الاطفال/67.webp";
+import case68 from "../imgs/طب اسنان الاطفال/68.webp";
+import case69 from "../imgs/طب اسنان الاطفال/69.webp";
+import case70 from "../imgs/طب اسنان الاطفال/70.webp";
+import case71 from "../imgs/طب اسنان الاطفال/71.webp";
 
 
 
@@ -235,9 +233,8 @@ export default function Before_after() {
     
     // طب اسنان الاطفال 
     
-    { img: case600, type: "طب أسنان الأطفال" },
-    { img: case610, type: "طب أسنان الأطفال" },
-    { img: case62, type: "طب أسنان الأطفال" },
+    { img: case6000, type: "طب أسنان الأطفال" },
+    { img: case6100, type: "طب أسنان الأطفال" },
     { img: case65, type: "طب أسنان الأطفال" },
     { img: case66, type: "طب أسنان الأطفال" },
     { img: case67, type: "طب أسنان الأطفال" },

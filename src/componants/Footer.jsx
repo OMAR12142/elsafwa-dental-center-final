@@ -6,7 +6,7 @@ import {
   faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
-import logo from "../imgs/logo.png";
+import logo from "../imgs/logo.WebP";
 
 export default function Footer() {
   const message = `👋 مرحباً، أود الاستفسار عن خدمات عيادة الصفوة.`;

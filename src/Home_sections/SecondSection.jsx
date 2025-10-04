@@ -1,6 +1,6 @@
 import React from "react";
 import BookingForm from "../componants/BookingForm";
-import logo from "../imgs/logo.png";
+import logo from "../imgs/logo.WebP";
 import { FaAward, FaTooth, FaTools, FaUserFriends, FaMapMarkerAlt } from "react-icons/fa";
 
 export default function SecondSection() {

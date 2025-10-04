@@ -1,6 +1,6 @@
 import React from 'react'
 
-import teethb from '../imgs/تجميل اسنانك مهمتنا.png'
+import teethb from '../imgs/تجميل اسنانك مهمتنا.WebP'
 export default function Services_second_section() {
   return (
     <div>
