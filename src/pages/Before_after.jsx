@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { FaTooth, FaSeedling, FaSmileBeam, FaTeethOpen, FaProcedures, FaChild } from "react-icons/fa";
-import { LazyLoadImage } from "react-lazy-load-image-component";
-import "react-lazy-load-image-component/src/effects/blur.css";
 
 
 // التركيبات
@@ -267,7 +265,6 @@ export default function Before_after() {
   const [selectedImage, setSelectedImage] = useState(null);
   const [selectedType, setSelectedType] = useState("الكل");
 
-  // Pagination
   const [currentPage, setCurrentPage] = useState(1);
   const casesPerPage = 9; 
   const filteredCases =
@@ -325,12 +322,11 @@ export default function Before_after() {
             className="bg-white shadow-lg rounded-xl overflow-hidden transform transition hover:scale-105 hover:shadow-2xl cursor-pointer"
             onClick={() => setSelectedImage(c.img)}
           >
-            <LazyLoadImage
-              src={c.img}
-              alt={`حالة ${c.type} ${i + 1}`}
-              effect="blur"
-              className="w-full h-[400px] object-cover"
-            />
+<img
+  src={c.img}
+  alt={`حالة ${c.type} ${i + 1}`}
+  className="w-full h-[400px] object-cover"
+/>
           </div>
         ))}
       </div>
