@@ -3,11 +3,12 @@ import { Suspense, lazy } from "react";
 import "./App.css";
 import Layout from "./layout/Layout";
 
-const Home = lazy(() => import("./pages/Home"));
+import Home from "./pages/Home";
+import Before_after from "./pages/Before_after";
+
 const Aboutus = lazy(() => import("./pages/Aboutus"));
 const Contactus = lazy(() => import("./pages/Contactus"));
 const Services = lazy(() => import("./pages/Services"));
-const Before_after = lazy(() => import("./pages/Before_after"));
 
 function Loading() {
   return (
@@ -23,11 +24,11 @@ function App() {
       path: "/",
       element: <Layout />,
       children: [
-        { path: "", element: <Home /> },
+        { path: "", element: <Home /> }, 
         { path: "Aboutus", element: <Aboutus /> },
         { path: "Contactus", element: <Contactus /> },
         { path: "Services", element: <Services /> },
-        { path: "Before_after", element: <Before_after /> },
+        { path: "Before_after", element: <Before_after /> }, 
       ],
     },
   ]);
