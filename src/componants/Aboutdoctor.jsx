@@ -1,5 +1,5 @@
 import React from "react";
-import doctorImg from "../imgs/gal/Aboutdoc.WebP";
+import doctorImg from "../imgs/gal/Aboutdoc.webp";
 import { Clock, Award, CheckCircle } from "lucide-react";
 
 export default function Aboutdoctor() {

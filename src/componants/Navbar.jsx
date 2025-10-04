@@ -1,6 +1,6 @@
 import { Link } from 'react-router'
 import Services from './../pages/Services';
-import Logo from '../imgs/logo.WebP';
+import Logo from '../imgs/logo.webp';
 import { IoMenu } from "react-icons/io5";
 import Mobilemenu from './Mobilemenu';
 import { useState } from 'react';
