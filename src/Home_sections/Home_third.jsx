@@ -1,5 +1,5 @@
 import React from 'react'
-import Diamond from '../imgs/gal/diamond.WebP'
+import Diamond from '../imgs/gal/diamond.webp'
 
 export default function Home_third() {
   return (

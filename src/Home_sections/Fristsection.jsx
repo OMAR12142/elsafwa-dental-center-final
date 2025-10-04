@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Doctor from "../imgs/doctor.WebP";
-import Doctor2 from "../imgs/doctor2.WebP";
-import Doctor6 from "../imgs/doctor6.WebP";
+import Doctor from "../imgs/doctor.webp";
+import Doctor2 from "../imgs/doctor2.webp";
+import Doctor6 from "../imgs/doctor6.webp";
 import { FaWhatsapp, FaClock, FaCalendarAlt, FaPhoneAlt } from "react-icons/fa";
 
 export default function HeroContactSection() {
