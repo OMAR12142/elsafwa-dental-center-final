@@ -29,7 +29,7 @@ export default function ScrollButtons() {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className="bg-[#ed1c24] text-white p-3 rounded-full shadow-lg hover:bg-red-700 transition duration-300"
+          className="bg-[#ed1c24] cursor-pointer text-white p-3 rounded-full shadow-lg hover:bg-red-700 transition duration-300"
           aria-label="Scroll to top"
         >
           <FaArrowUp size={20} />
@@ -37,7 +37,7 @@ export default function ScrollButtons() {
       )}
       <button
         onClick={goToWhatsApp}
-        className="bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300"
+        className="bg-green-500 cursor-pointer text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300"
         aria-label="Contact on WhatsApp"
       >
         <FaWhatsapp size={22} />
